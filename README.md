@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-- Java, JavaScript, C, C++
+- Java, JavaScript, C
 
 **Backend**
 - Spring Boot
@@ -33,7 +33,7 @@
 - Git & GitHub
 - Maven
 - Postman
-- VS Code / IntelliJ IDEA
+- VS Code 
 
 ---
 
